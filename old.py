@@ -1,5 +1,5 @@
 #! /usr/local/bin/python3
-# Adrian is <insert insult here>
+
 import sys
 
 out_of = int(sys.argv[1])
